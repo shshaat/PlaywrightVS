@@ -2,7 +2,7 @@ import { Page ,Locator} from '@playwright/test';
 import { ConfigData } from './Data';
 
 export class PageL{
-
+//
 readonly page:Page;
 readonly CD:ConfigData;
 readonly uName:Locator;
